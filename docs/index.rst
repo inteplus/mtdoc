@@ -1,29 +1,18 @@
-.. wml documentation master file, created by
+.. Minh-Tri Pham's Python documentation master file, created by
    sphinx-quickstart on Sun May 24 07:46:10 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Winnow ML's documentation!
-=====================================
+Documentation of Minh-Tri Pham's *mt* packages!
+===============================================
 
-Winnow ML packages are contained within a single namespace called *wml*.
+Minh-Tri Pham's Python packages, packed in the *mt* namespace.
 
 .. toctree::
    :hidden:
 
-   wml.core/wml.core
-   wml.keras/wml.keras
-   wml.tfkeras/wml.tfkeras
-   wml.inference/wml.inference
-   wml.visionml/wml.visionml
-   wml.imgaug/wml.imgaug
-   wml.bindet_wrangler/wml.bindet_wrangler
-   wml.bindet_predictor/wml.bindet_predictor
-   wml.bindet_augmentor/wml.bindet_augmentor
-   wml.bindet_trainer/wml.bindet_trainer
-   wml.bindet_evaluator/wml.bindet_evaluator
-   wml.munet_augmentor/wml.munet_augmentor
-   wml.munet_trainer/wml.munet_trainer
+   mt.base/mt.base
+   mt.pandas/mt.pandas
 
 
 Indices and tables
