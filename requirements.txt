@@ -3,4 +3,6 @@ sphinx-rtd-theme
 colorama
 Cython
 dask[distributed]
-
+mtbase
+pandas
+mtpandas
