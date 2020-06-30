@@ -44,6 +44,7 @@ autoapi_modules = {
     'mt.base': None,
     'mt.pandas': None,
     'mt.struct': None,
+    'mt.geo': None,
     }
 
 master_doc = 'index'
