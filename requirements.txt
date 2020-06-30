@@ -5,4 +5,7 @@ Cython
 dask[distributed]
 mtbase
 pandas
+dask[dataframe]
 mtpandas
+mtstruct
+mtgeo
