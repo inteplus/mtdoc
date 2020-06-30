@@ -43,6 +43,7 @@ extensions = [
 autoapi_modules = {
     'mt.base': None,
     'mt.pandas': None,
+    'mt.struct': None,
     }
 
 master_doc = 'index'
