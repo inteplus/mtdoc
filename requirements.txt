@@ -6,6 +6,7 @@ dask[distributed]
 mtbase
 pandas
 dask[dataframe]
+fsspec>=0.3.3
 mtpandas
 mtstruct
 mtgeo
