@@ -3,10 +3,10 @@ sphinx-rtd-theme
 colorama
 Cython
 dask[distributed]
-mtbase
+mtbase>=0.4.1
 pandas
 dask[dataframe]
 fsspec>=0.3.3
 mtpandas
-mtstruct
+mtstruct>=0.2.1
 mtgeo
