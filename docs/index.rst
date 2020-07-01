@@ -16,7 +16,6 @@ Minh-Tri Pham's Python packages, packed in the *mt* namespace.
    mt.pandas/mt.pandas
    mt.struct/mt.struct
    mt.geo/mt.geo
-   mt.geo.linear2d/mt.geo.linear2d
 
 
 Indices and tables
