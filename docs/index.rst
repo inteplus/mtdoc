@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation of Minh-Tri Pham's *mt* packages!
-===============================================
+Minh-Tri Pham's *mt* packages
+=============================
 
-Minh-Tri Pham's Python packages, packed in the *mt* namespace.
+Welcome! This documentation site is about Minh-Tri Pham's public Python packages, packed under the *mt* namespace.
 
 .. toctree::
    :caption: Contents:

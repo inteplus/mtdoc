@@ -1,7 +1,7 @@
 Installation
 ============
 
-Minh-Tri Pham's Python namespace packages use the following convention. If the package is name in Python is `mt.xyz` then its corresponding name in pypi.org is `mtxyz`. This is because pypi does not yet support namespace packages, as of 2020/06/01. Currently, the packages are: `mt.base`, `mt.pandas`, `mt.struct`, `mt.geo`, `mt.sql`, `mt.skimage` and `mt.opencv`.
+Minh-Tri Pham's Python namespace packages use the following convention. If the package name in Python is `mt.xyz` then its corresponding name in pypi.org is `mtxyz`. This is because pypi does not yet support namespace packages, as of 2020/06/01. Currently, the packages are: `mt.base`, `mt.pandas`, `mt.struct`, `mt.geo`, `mt.sql`, `mt.skimage` and `mt.opencv`.
 
 In the following instructions, replace `xyz` with the package name of your choosing.
 
@@ -15,10 +15,10 @@ Build from source::
     cd mtxyz
     python3 setup.py install
 
-mtstruct
---------
+mt.struct
+---------
 
-If the package `mt.xyz` is `mt.struct` then the Python source code is located at subfolder `python` instead. This is because `mt.struct` contains C++ source code, which can be built into a library using th following instructions.
+If the package `mt.xyz` is `mt.struct` then the Python source code is located at subfolder `python` instead. Apart from the Python source code, `mt.struct` contains C++ source code, which can be built into a C++ library using th following instructions.
 
 Use cmake to build and install::
 
