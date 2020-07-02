@@ -12,4 +12,5 @@ mtstruct>=0.2.1
 mtgeo
 mtsql
 mtskimage
+opencv-python
 mtopencv
