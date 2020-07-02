@@ -17,6 +17,7 @@ Minh-Tri Pham's Python packages, packed in the *mt* namespace.
    mt.struct/mt.struct
    mt.geo/mt.geo
    mt.sql/mt.sql
+   mt.skimage/mt.skimage
 
 
 Indices and tables
