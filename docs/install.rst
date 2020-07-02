@@ -1,8 +1,24 @@
 Installation
 ============
 
-C++
----
+Minh-Tri Pham's Python namespace packages use the following convention. If the package is name in Python is `mt.xyz` then its corresponding name in pypi.org is `mtxyz`. This is because pypi does not yet support namespace packages, as of 2020/06/01. Currently, the packages are: `mt.base`, `mt.pandas`, `mt.struct`, `mt.geo`, `mt.sql`, `mt.skimage` and `mt.opencv`.
+
+In the following instructions, replace `xyz` with the package name of your choosing.
+
+Install via pip::
+
+    pip3 install mtxyz
+
+Build from source::
+
+    git clone https://github.com/inteplus/mtxyz.git
+    cd mtxyz
+    python3 setup.py install
+
+mtstruct
+--------
+
+If the package `mt.xyz` is `mt.struct` then the Python source code is located at subfolder `python` instead. This is because `mt.struct` contains C++ source code, which can be built into a library using th following instructions.
 
 Use cmake to build and install::
 
@@ -13,18 +29,3 @@ Use cmake to build and install::
     cmake ..
     make
     make install
-
-Python
-------
-
-The Python version includes the C++ source and include files in the Python package. When you import `mt.struct`, Python extensions are compiled using pyximport. Currently, we require `Boost.Serialization` installed at run time.
-
-Install via pip::
-
-    pip3 install mtstruct
-
-Build from source::
-
-    git clone https://github.com/inteplus/mtstruct.git
-    cd mtstruct/python
-    python3 setup.py install

@@ -18,6 +18,7 @@ Minh-Tri Pham's Python packages, packed in the *mt* namespace.
    mt.geo/mt.geo
    mt.sql/mt.sql
    mt.skimage/mt.skimage
+   mt.opencv/mt.opencv
 
 
 Indices and tables

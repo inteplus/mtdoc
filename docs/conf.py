@@ -47,6 +47,7 @@ autoapi_modules = {
     'mt.geo': None,
     'mt.sql': None,
     'mt.skimage': None,
+    'mt.opencv': None,
     }
 
 master_doc = 'index'
