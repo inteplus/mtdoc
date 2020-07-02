@@ -10,3 +10,4 @@ fsspec>=0.3.3
 mtpandas
 mtstruct>=0.2.1
 mtgeo
+mtsql
