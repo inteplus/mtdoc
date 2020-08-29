@@ -3,6 +3,7 @@ sphinx-rtd-theme
 colorama
 Cython
 dask[distributed]
+streamz
 mtbase>=0.4.1
 pandas
 dask[dataframe]
