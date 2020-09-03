@@ -12,6 +12,7 @@ mtpandas
 mtstruct>=0.2.1
 mtgeo
 mtsql
+mtsreamz
 mtskimage
 opencv-python
 mtopencv
