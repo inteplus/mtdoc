@@ -5,6 +5,7 @@ Cython
 dask[distributed]
 streamz
 mtbase>=0.4.1
+mtgpu
 pandas
 dask[dataframe]
 fsspec>=0.3.3
