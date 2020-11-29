@@ -45,7 +45,7 @@ autoapi_modules = {
     'mt.gpu': None,
     'mt.pandas': None,
     'mt.struct': None,
-    'mt.geo': None,
+    'mt.geo': {'template': 'mt.geo'},
     'mt.sql': None,
     'mt.streamz': None,
     'mt.skimage': None,
