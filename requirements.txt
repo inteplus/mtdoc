@@ -4,7 +4,9 @@ colorama
 Cython
 dask[distributed]
 streamz
-mtbase>=0.4.1
+tqdm
+pyturbojpeg
+mtbase>=1.0.0
 mtgpu
 pandas
 dask[dataframe]
