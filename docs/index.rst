@@ -17,6 +17,9 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.pandas/mt.pandas
    mt.struct/mt.struct
    mt.geo/mt.geo
+   mt.geo2d/mt.geo2d
+   mt.geo3d/mt.geo3d
+   mt.geond/mt.geond
    mt.sql/mt.sql
    mt.streamz/mt.streamz
    mt.skimage/mt.skimage
