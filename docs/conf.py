@@ -52,6 +52,7 @@ autoapi_modules = {
     'mt.sql': None,
     'mt.streamz': None,
     'mt.skimage': None,
+    'mt.cv': None,
     'mt.opencv': None,
     }
 

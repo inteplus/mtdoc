@@ -24,6 +24,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.streamz/mt.streamz
    mt.skimage/mt.skimage
    mt.opencv/mt.opencv
+   mt.cv/mt.cv
 
 
 Indices and tables
