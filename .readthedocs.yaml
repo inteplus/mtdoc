@@ -10,6 +10,12 @@ sphinx:
    builder: html
    configuration: docs/conf.py
 
+# Optionally set the version of Python and requirements required to build your docs
+python:
+   version: "3.8"
+   install:
+   - requirements: requirements.txt
+
 build:
   apt_packages:
     - libturbojpeg-dev
