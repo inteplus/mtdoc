@@ -8,7 +8,6 @@ pyturbojpeg
 mtbase>=1.0.0
 mtgpu
 pandas
-tensorflow
 fsspec>=0.3.3
 mtpandas
 mtstruct>=0.2.1
