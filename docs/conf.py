@@ -42,9 +42,12 @@ extensions = [
 # autoapi
 autoapi_modules = {
     'mt.base': None,
+    'mt.np': None,
     'mt.gpu': None,
     'mt.pandas': None,
     'mt.struct': None,
+    'mt.tf': None,
+    'mt.tfg': None,
     'mt.geo': {'template': 'mt.geo'},
     'mt.geo2d': {'template': 'mt.geo'},
     'mt.geo3d': {'template': 'mt.geo'},
