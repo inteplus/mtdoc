@@ -21,7 +21,6 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.geo3d/mt.geo3d
    mt.geond/mt.geond
    mt.sql/mt.sql
-   mt.streamz/mt.streamz
    mt.skimage/mt.skimage
    mt.opencv/mt.opencv
    mt.cv/mt.cv

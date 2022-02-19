@@ -50,7 +50,6 @@ autoapi_modules = {
     'mt.geo3d': {'template': 'mt.geo'},
     'mt.geond': {'template': 'mt.geo'},
     'mt.sql': None,
-    'mt.streamz': None,
     'mt.skimage': None,
     'mt.cv': None,
     'mt.opencv': None,
