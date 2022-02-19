@@ -13,7 +13,6 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
 
    install
    mt.base/mt.base
-   mt.np/mt.np
    mt.gpu/mt.gpu
    mt.pandas/mt.pandas
    mt.struct/mt.struct
