@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mt'
-copyright = '2020, Minh-Tri Pham'
-author = 'Minh-Tri Pham'
+project = "mt"
+copyright = "2020, Minh-Tri Pham"
+author = "Minh-Tri Pham"
 
 # The full version, including alpha/beta/rc tags
-release = 'latest'
+release = "latest"
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,40 +31,41 @@ release = 'latest'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.todo',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.graphviz',
-    'sphinx.ext.inheritance_diagram',
-    'sphinx.ext.napoleon',
-    'autoapi.sphinx',
+    "sphinx.ext.todo",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.graphviz",
+    "sphinx.ext.inheritance_diagram",
+    "sphinx.ext.napoleon",
+    "autoapi.sphinx",
 ]
 
 # autoapi
 autoapi_modules = {
-    'mt.base': None,
-    'mt.gpu': None,
-    'mt.pandas': None,
-    'mt.struct': None,
-    'mt.geo': {'template': 'mt.geo'},
-    'mt.geo2d': {'template': 'mt.geo'},
-    'mt.geo3d': {'template': 'mt.geo'},
-    'mt.geond': {'template': 'mt.geo'},
-    'mt.sql': None,
-    'mt.skimage': None,
-    'mt.cv': None,
-    'mt.opencv': None,
-    }
+    "mt.base": None,
+    "mt.gpu": None,
+    "mt.pandas": None,
+    "mt.struct": None,
+    "mt.geo": {"template": "mt.geo"},
+    "mt.geo2d": {"template": "mt.geo"},
+    "mt.geo3d": {"template": "mt.geo"},
+    "mt.geond": {"template": "mt.geo"},
+    "mt.sql": None,
+    "mt.skimage": None,
+    "mt.cv": None,
+    "mt.opencv": None,
+    "mt.imageio": None,
+}
 
-master_doc = 'index'
+master_doc = "index"
 
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -72,9 +73,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]

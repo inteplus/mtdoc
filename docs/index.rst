@@ -28,6 +28,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.skimage/mt.skimage
    mt.opencv/mt.opencv
    mt.cv/mt.cv
+   mt.iio/mt.iio
 
 
 Indices and tables

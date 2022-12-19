@@ -1,7 +1,7 @@
 Installation
 ============
 
-Minh-Tri Pham's Python namespace packages use the following convention. If the package name in Python is `mt.xyz` then its corresponding name in pypi.org is `mtxyz`. This is because pypi does not yet support namespace packages, as of 2020/06/01. Currently, the packages are: `mt.base`, `mt.pandas`, `mt.struct`, `mt.geo`, `mt.sql`, `mt.skimage` and `mt.opencv`.
+Minh-Tri Pham's Python namespace packages use the following convention. If the package name in Python is `mt.xyz` then its corresponding name in pypi.org is `mtxyz`. This is because pypi does not yet support namespace packages, as of 2020/06/01. Currently, the packages are: `mt.base`, `mt.pandas`, `mt.struct`, `mt.geo`, `mt.sql`, `mt.skimage`, `mt.opencv` and `mt.imageio`.
 
 In the following instructions, replace `xyz` with the package name of your choosing.
 
