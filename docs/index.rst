@@ -12,6 +12,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    :caption: Contents:
 
    install
+   mt.aio/mt.aio
    mt.base/mt.base
    mt.ctx/mt.ctx
    mt.logging/mt.logging

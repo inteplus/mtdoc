@@ -41,6 +41,7 @@ extensions = [
 
 # autoapi
 autoapi_modules = {
+    "mt.aio": None,
     "mt.base": None,
     "mt.ctx": None,
     "mt.logging": None,
