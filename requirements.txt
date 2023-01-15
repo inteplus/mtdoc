@@ -5,9 +5,10 @@ Cython
 streamz
 tqdm
 pyturbojpeg
-mtbase>=1.0.0
+mtbase>=3.4
 mtgpu
 pandas
+matplotlib
 fsspec>=0.3.3
 mtpandas
 mtstruct>=0.2.1
@@ -18,3 +19,4 @@ mtstreamz
 mtskimage
 opencv-python
 mtopencv
+mtimageio
