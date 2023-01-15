@@ -13,8 +13,17 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
 
    install
    mt.base/mt.base
+   mt.ctx/mt.ctx
+   mt.logging/mt.logging
+   mt.mpl/mt.mpl
+   mt.net/mt.net
    mt.np/mt.np
+   mt.path/mt.path
    mt.plt/mt.plt
+   mt.shutil/mt.shutil
+   mt.threading/mt.threading
+   mt.time/mt.time
+   mt.traceback/mt.traceback
    mt.gpu/mt.gpu
    mt.pandas/mt.pandas
    mt.struct/mt.struct

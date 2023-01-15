@@ -42,6 +42,17 @@ extensions = [
 # autoapi
 autoapi_modules = {
     "mt.base": None,
+    "mt.ctx": None,
+    "mt.logging": None,
+    "mt.mpl": None,
+    "mt.net": None,
+    "mt.np": None,
+    "mt.path": None,
+    "mt.plt": None,
+    "mt.shutil": None,
+    "mt.threading": None,
+    "mt.time": None,
+    "mt.traceback": None,
     "mt.gpu": None,
     "mt.pandas": None,
     "mt.struct": None,
