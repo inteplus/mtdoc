@@ -26,7 +26,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.time/mt.time
    mt.traceback/mt.traceback
    mt.gpu/mt.gpu
-   mt.pandas/mt.pandas
+   mt.pd/mt.pd
    mt.struct/mt.struct
    mt.tf/mt.tf
    mt.tfg/mt.tfg
