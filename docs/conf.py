@@ -45,6 +45,7 @@ autoapi_modules = {
     "mt.base": None,
     "mt.ctx": None,
     "mt.logging": None,
+    "mt.logg": None,
     "mt.mpl": None,
     "mt.net": None,
     "mt.np": None,
