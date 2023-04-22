@@ -6,6 +6,7 @@ streamz
 tqdm
 pyturbojpeg
 mtbase>=3.4
+mtnet
 mtgpu
 pandas
 matplotlib
