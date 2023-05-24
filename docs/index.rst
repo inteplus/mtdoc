@@ -16,6 +16,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.base/mt.base
    mt.ctx/mt.ctx
    mt.logg/mt.logg
+   mt.concurrency/mt.concurrency
    mt.mpl/mt.mpl
    mt.net/mt.net
    mt.np/mt.np
