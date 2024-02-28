@@ -26,3 +26,4 @@ mtglm
 v4l2py
 matplotlib
 tensorflow<2.11
+tensorflow-graphics
