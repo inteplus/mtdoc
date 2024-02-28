@@ -29,7 +29,6 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.gpu/mt.gpu
    mt.pandas/mt.pandas
    mt.pd/mt.pd
-   mt.struct/mt.struct
    mt.tf/mt.tf
    mt.tfg/mt.tfg
    mt.geo/mt.geo
@@ -45,6 +44,7 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.imageio/mt.imageio
    mt.iio/mt.iio
    mt.v4l2/mt.v4l2
+   mt.struct/mt.struct
 
 
 Indices and tables

@@ -58,7 +58,6 @@ autoapi_modules = {
     "mt.gpu": None,
     "mt.pandas": None,
     "mt.pd": None,
-    "mt.struct": None,
     "mt.tf": None,
     "mt.tfg": None,
     "mt.geo": {"template": "mt.geo"},
@@ -74,6 +73,7 @@ autoapi_modules = {
     "mt.imageio": None,
     "mt.iio": None,
     "mt.v4l2": None,
+    "mt.struct": None,
 }
 
 master_doc = "index"
