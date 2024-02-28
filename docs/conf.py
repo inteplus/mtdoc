@@ -67,8 +67,11 @@ autoapi_modules = {
     "mt.skimage": None,
     "mt.cv": None,
     "mt.opencv": None,
+    "mt.opengl": None,
+    "mt.glm": None,
     "mt.imageio": None,
     "mt.iio": None,
+    "mt.v4l2": None,
 }
 
 master_doc = "index"

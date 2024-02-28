@@ -21,3 +21,5 @@ mtskimage
 opencv-python
 mtopencv
 mtimageio
+mtopengl
+mtglm

@@ -36,12 +36,15 @@ Welcome! This documentation site is about Minh-Tri Pham's public Python packages
    mt.geo2d/mt.geo2d
    mt.geo3d/mt.geo3d
    mt.geond/mt.geond
+   mt.glm/mt.glm
    mt.sql/mt.sql
    mt.skimage/mt.skimage
    mt.opencv/mt.opencv
    mt.cv/mt.cv
+   mt.opengl/mt.opengl
    mt.imageio/mt.imageio
    mt.iio/mt.iio
+   mt.v4l2/mt.v4l2
 
 
 Indices and tables
