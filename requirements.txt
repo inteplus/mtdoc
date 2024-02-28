@@ -25,4 +25,4 @@ mtopengl
 mtglm
 v4l2py
 matplotlib
-tensorflow
+tensorflow<2.11
