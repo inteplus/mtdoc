@@ -24,3 +24,5 @@ mtimageio
 mtopengl
 mtglm
 v4l2py
+matplotlib
+tensorflow
